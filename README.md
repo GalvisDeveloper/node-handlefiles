@@ -2,6 +2,12 @@
 
 To run this app, install node modules executing this command on terminal
 
+<code>npm i</code> or <code>npm install</code>
+
+Then, you can run this app.
+
+For example with the command
+
 <code>node app --base 8 --list --limit 9</code>
 
 Options:
